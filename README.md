@@ -1,9 +1,9 @@
 Personal Finance Tracker 
 
-Project Overview
+Project Overview:
 This is a command-line Python program that helps users track their personal expenses by category. Users can add expenses with descriptions and amounts, view all recorded expenses, and get a summary of total spending by category. The project demonstrates foundational Python skills and is beginner-friendly.
 
-How to Run the Script
+How to Run the Script:
 1. Save the code in a file named finance_tracker.py
 2. Open your terminal
 3. Navigate to the folder containing the file:
